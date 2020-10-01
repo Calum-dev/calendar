@@ -1,0 +1,1982 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//https://www.abs.gov.au///NONSGML v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Australia/Canberra
+X-LIC-LOCATION:Australia/Canberra
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+TZNAME:AEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID: 4300@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220115
+DTSTART;TZID=Australia/Canberra:20210601T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210601T113000
+SUMMARY:Building Approvals, Australia: April 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4306@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220118
+DTSTART;TZID=Australia/Canberra:20210505T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210505T113000
+SUMMARY:Building Approvals, Australia: March 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4318@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220124
+DTSTART;TZID=Australia/Canberra:20210331T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210331T113000
+SUMMARY:Building Approvals, Australia: February 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4324@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220128
+DTSTART;TZID=Australia/Canberra:20210318T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210318T113000
+SUMMARY:National, state and territory population: September 2020
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories
+URL:https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population
+END:VEVENT
+BEGIN:VEVENT
+UID: 4332@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220132
+DTSTART;TZID=Australia/Canberra:20210302T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210302T113000
+SUMMARY:Building Approvals, Australia: January 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4334@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220133
+DTSTART;TZID=Australia/Canberra:20201009T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201009T113000
+SUMMARY:Lending Indicators: August 2020
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 4345@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220139
+DTSTART;TZID=Australia/Canberra:20201110T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201110T113000
+SUMMARY:Lending Indicators: September 2020
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 4346@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220140
+DTSTART;TZID=Australia/Canberra:20201209T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201209T113000
+SUMMARY:Lending Indicators: October 2020
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 4348@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220141
+DTSTART;TZID=Australia/Canberra:20210203T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210203T113000
+SUMMARY:Building Approvals, Australia: December 2020
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4349@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220141
+DTSTART;TZID=Australia/Canberra:20210316T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210316T113000
+SUMMARY:Residential Property Price Indexes: Eight Capital Cities: December 2020
+DESCRIPTION:Estimates of changes in residential property prices and the total value of Australia's dwelling stock, and preliminary housing market activity data.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities
+END:VEVENT
+BEGIN:VEVENT
+UID: 4352@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220143
+DTSTART;TZID=Australia/Canberra:20210205T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210205T113000
+SUMMARY:Retail Trade, Australia: December 2020
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4353@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220143
+DTSTART;TZID=Australia/Canberra:20201130T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201130T113000
+SUMMARY:Business Indicators, Australia: September 2020
+DESCRIPTION:Quarterly estimates of profits, income from the sale of goods and services, wages and salaries, and the book value of inventories.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/business-indicators-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4363@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220148
+DTSTART;TZID=Australia/Canberra:20210111T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210111T113000
+SUMMARY:Retail Trade, Australia: November 2020
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4364@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220149
+DTSTART;TZID=Australia/Canberra:20201118T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201118T113000
+SUMMARY:Wage Price Index, Australia: September 2020
+DESCRIPTION:The WPI measures changes in the price of labour, unaffected by compositional shifts in the labour force, hours worked or employee characteristics.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4365@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220149
+DTSTART;TZID=Australia/Canberra:20201125T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201125T113000
+SUMMARY:Construction Work Done, Australia, Preliminary: September 2020
+DESCRIPTION:Provides preliminary estimates of value of total construction work done, building work done and engineering construction work done
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/construction-work-done-australia-preliminary
+END:VEVENT
+BEGIN:VEVENT
+UID: 4366@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220150
+DTSTART;TZID=Australia/Canberra:20210107T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210107T113000
+SUMMARY:Building Approvals, Australia: November 2020 UPDATED
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4367@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220150
+DTSTART;TZID=Australia/Canberra:20201210T113000
+SEQUENCE:2
+DTEND;TZID=Australia/Canberra:20201210T113000
+SUMMARY:Assets and Liabilities of Australian Securitisers: September 2020
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that issue securities against specifically matched assets, such as mortgages
+URL:https://www.abs.gov.au/statistics/economy/finance/assets-and-liabilities-australian-securitisers
+END:VEVENT
+BEGIN:VEVENT
+UID: 4378@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220156
+DTSTART;TZID=Australia/Canberra:20201030T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201030T113000
+SUMMARY:Producer Price Indexes, Australia: Issue For Sept 2020
+DESCRIPTION:Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4379@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220157
+DTSTART;TZID=Australia/Canberra:20201204T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201204T113000
+SUMMARY:Retail Trade, Australia: October 2020
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4382@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220158
+DTSTART;TZID=Australia/Canberra:20201028T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201028T113000
+SUMMARY:Consumer Price Index, Australia: September Quarter 2020
+DESCRIPTION:The Consumer Price Index (CPI) measures price inflation of goods and services purchased by Australian households in each capital city.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4383@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220159
+DTSTART;TZID=Australia/Canberra:20201201T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201201T113000
+SUMMARY:Building Approvals, Australia: October 2020
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4387@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220201
+DTSTART;TZID=Australia/Canberra:20201217T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201217T113000
+SUMMARY:National, state and territory population: June 2020
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories
+URL:https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population
+END:VEVENT
+BEGIN:VEVENT
+UID: 4390@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220202
+DTSTART;TZID=Australia/Canberra:20201210T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201210T113000
+SUMMARY:Managed Funds, Australia: September 2020
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that pool funds for investment, classified by type of financial instrument
+URL:https://www.abs.gov.au/statistics/economy/finance/managed-funds-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4391@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220203
+DTSTART;TZID=Australia/Canberra:20201208T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201208T113000
+SUMMARY:Residential Property Price Indexes: Eight Capital Cities: September 2020
+DESCRIPTION:Estimates of changes in residential property prices and the total value of Australia's dwelling stock, and preliminary housing market activity data.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities
+END:VEVENT
+BEGIN:VEVENT
+UID: 4392@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220203
+DTSTART;TZID=Australia/Canberra:20201104T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201104T113000
+SUMMARY:Retail Trade, Australia: September 2020
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4393@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220204
+DTSTART;TZID=Australia/Canberra:20201130T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201130T113000
+SUMMARY:Mineral and Petroleum Exploration, Australia: September 2020
+DESCRIPTION:Quarterly statistics on Mineral and Petroleum exploration expenditure by private organisations in Australia.
+URL:https://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 4395@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220205
+DTSTART;TZID=Australia/Canberra:20201102T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201102T113000
+SUMMARY:Building Approvals, Australia: September 2020
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5155@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220835
+DTSTART;TZID=Australia/Canberra:20210203T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210203T113000
+SUMMARY:Selected Living Cost Indexes, Australia: December 2020
+DESCRIPTION:The Living Cost Indexes (LCIs) are designed to measure the impact of price change on the disposable incomes of selected household types.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/selected-living-cost-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5167@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220841
+DTSTART;TZID=Australia/Canberra:20210107T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210107T113000
+SUMMARY:International Trade in Goods and Services, Australia: November 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5186@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220851
+DTSTART;TZID=Australia/Canberra:20210204T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210204T113000
+SUMMARY:International Trade in Goods and Services, Australia: December 2020
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5187@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220852
+DTSTART;TZID=Australia/Canberra:20210113T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210113T113000
+SUMMARY:Job Vacancies, Australia: November 2020
+DESCRIPTION:Results of the quarterly Job Vacancies Survey containing estimates of job vacancies classified by industry, sector and state/territory.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacancies-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5188@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220852
+DTSTART;TZID=Australia/Canberra:20201202T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201202T113000
+SUMMARY:Australian National Accounts: National Income, Expenditure and Product: September 2020
+DESCRIPTION:Quarterly estimates of key economic flows in Australia, including gross domestic product (GDP), consumption, investment, income and saving.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product
+END:VEVENT
+BEGIN:VEVENT
+UID: 5189@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220853
+DTSTART;TZID=Australia/Canberra:20201217T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201217T113000
+SUMMARY:Australian National Accounts: Finance and Wealth: September 2020
+DESCRIPTION:Contains quarterly data on national, sectoral and subsectoral financial accounts, balance sheets and capital accounts.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-finance-and-wealth
+END:VEVENT
+BEGIN:VEVENT
+UID: 5198@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220857
+DTSTART;TZID=Australia/Canberra:20201126T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201126T113000
+SUMMARY:Private New Capital Expenditure and Expected Expenditure, Australia: September 2020
+DESCRIPTION:Quarterly statistics about actual and expected private new capex investment spend on buildings and equipment by industry.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5199@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220857
+DTSTART;TZID=Australia/Canberra:20201201T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201201T113000
+SUMMARY:Balance of Payments and International Investment Position, Australia: September 2020
+DESCRIPTION:Balance of payments statistics on current, capital and financial transactions and the international investment position statement
+URL:https://www.abs.gov.au/statistics/economy/international-trade/balance-payments-and-international-investment-position-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5201@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220858
+DTSTART;TZID=Australia/Canberra:20201104T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201104T113000
+SUMMARY:Selected Living Cost Indexes, Australia: September 2020
+DESCRIPTION:The Living Cost Indexes (LCIs) are designed to measure the impact of price change on the disposable incomes of selected household types.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/selected-living-cost-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5213@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220904
+DTSTART;TZID=Australia/Canberra:20201029T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201029T113000
+SUMMARY:International Trade Price Indexes, Australia: September 2020
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5216@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220905
+DTSTART;TZID=Australia/Canberra:20201203T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201203T113000
+SUMMARY:International Trade in Goods and Services, Australia: October 2020
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5217@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220906
+DTSTART;TZID=Australia/Canberra:20201125T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201125T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: October 2020
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 5238@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220916
+DTSTART;TZID=Australia/Canberra:20201105T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201105T113000
+SUMMARY:International Trade in Goods and Services, Australia: September 2020
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5241@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220918
+DTSTART;TZID=Australia/Canberra:20201029T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201029T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: September 2020
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 5249@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220922
+DTSTART;TZID=Australia/Canberra:20201006T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201006T113000
+SUMMARY:International Trade in Goods and Services, Australia: August 2020
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5271@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220933
+DTSTART;TZID=Australia/Canberra:20201217T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201217T113000
+SUMMARY:Labour Force, Australia: November 2020
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5272@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220934
+DTSTART;TZID=Australia/Canberra:20201119T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201119T113000
+SUMMARY:Labour Force, Australia: October 2020
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 5273@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T220934
+DTSTART;TZID=Australia/Canberra:20201015T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201015T113000
+SUMMARY:Labour Force, Australia: September 2020
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6185@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221722
+DTSTART;TZID=Australia/Canberra:20210825T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210825T113000
+SUMMARY:Construction Work Done, Australia, Preliminary: June 2021
+DESCRIPTION:Provides preliminary estimates of value of total construction work done, building work done and engineering construction work done
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/construction-work-done-australia-preliminary
+END:VEVENT
+BEGIN:VEVENT
+UID: 6186@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221723
+DTSTART;TZID=Australia/Canberra:20210830T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210830T113000
+SUMMARY:Business Indicators, Australia: June 2021
+DESCRIPTION:Quarterly estimates of profits, income from the sale of goods and services, wages and salaries, and the book value of inventories.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/business-indicators-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6189@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221724
+DTSTART;TZID=Australia/Canberra:20210916T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210916T113000
+SUMMARY:National, state and territory population: March 2021
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories
+URL:https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population
+END:VEVENT
+BEGIN:VEVENT
+UID: 6190@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221725
+DTSTART;TZID=Australia/Canberra:20210602T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210602T113000
+SUMMARY:Australian National Accounts: National Income, Expenditure and Product: March 2021
+DESCRIPTION:Quarterly estimates of key economic flows in Australia, including gross domestic product (GDP), consumption, investment, income and saving.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product
+END:VEVENT
+BEGIN:VEVENT
+UID: 6191@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221725
+DTSTART;TZID=Australia/Canberra:20210609T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210609T113000
+SUMMARY:Lending Indicators: April 2021
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 6192@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221726
+DTSTART;TZID=Australia/Canberra:20210914T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210914T113000
+SUMMARY:Residential Property Price Indexes: Eight Capital Cities: June 2021
+DESCRIPTION:Estimates of changes in residential property prices and the total value of Australia's dwelling stock, and preliminary housing market activity data.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities
+END:VEVENT
+BEGIN:VEVENT
+UID: 6193@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221726
+DTSTART;TZID=Australia/Canberra:20210803T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210803T113000
+SUMMARY:Building Approvals, Australia: June 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6198@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221729
+DTSTART;TZID=Australia/Canberra:20210603T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210603T113000
+SUMMARY:Assets and Liabilities of Australian Securitisers: March 2021
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that issue securities against specifically matched assets, such as mortgages
+URL:https://www.abs.gov.au/statistics/economy/finance/assets-and-liabilities-australian-securitisers
+END:VEVENT
+BEGIN:VEVENT
+UID: 6199@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221729
+DTSTART;TZID=Australia/Canberra:20210601T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210601T113000
+SUMMARY:Business Indicators, Australia: March 2021
+DESCRIPTION:Quarterly estimates of profits, income from the sale of goods and services, wages and salaries, and the book value of inventories.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/business-indicators-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6200@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221729
+DTSTART;TZID=Australia/Canberra:20210705T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210705T113000
+SUMMARY:Building Approvals, Australia: May 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6202@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221730
+DTSTART;TZID=Australia/Canberra:20210526T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210526T113000
+SUMMARY:Construction Work Done, Australia, Preliminary: March 2021
+DESCRIPTION:Provides preliminary estimates of value of total construction work done, building work done and engineering construction work done
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/construction-work-done-australia-preliminary
+END:VEVENT
+BEGIN:VEVENT
+UID: 6204@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221732
+DTSTART;TZID=Australia/Canberra:20201211T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201211T113000
+SUMMARY:Apparent Consumption of Selected Foodstuffs, Australia: 2019-20 financial year
+DESCRIPTION:Provides experimental estimates of apparent consumption per capita of selected foods based on sales of products in Australia.
+URL:https://www.abs.gov.au/statistics/health/health-conditions-and-risks/apparent-consumption-selected-foodstuffs-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6206@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221732
+DTSTART;TZID=Australia/Canberra:20210617T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210617T113000
+SUMMARY:National, state and territory population: December 2020
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories
+URL:https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population
+END:VEVENT
+BEGIN:VEVENT
+UID: 6207@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221733
+DTSTART;TZID=Australia/Canberra:20210409T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210409T113000
+SUMMARY:Lending Indicators: February 2021
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 6210@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221734
+DTSTART;TZID=Australia/Canberra:20210615T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210615T113000
+SUMMARY:Residential Property Price Indexes: Eight Capital Cities: March 2021
+DESCRIPTION:Estimates of changes in residential property prices and the total value of Australia's dwelling stock, and preliminary housing market activity data.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities
+END:VEVENT
+BEGIN:VEVENT
+UID: 6211@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221735
+DTSTART;TZID=Australia/Canberra:20210303T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210303T113000
+SUMMARY:Australian National Accounts: National Income, Expenditure and Product: December 2020
+DESCRIPTION:Quarterly estimates of key economic flows in Australia, including gross domestic product (GDP), consumption, investment, income and saving.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product
+END:VEVENT
+BEGIN:VEVENT
+UID: 6212@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221735
+DTSTART;TZID=Australia/Canberra:20210603T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210603T113000
+SUMMARY:Managed Funds, Australia: March 2021
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that pool funds for investment, classified by type of financial instrument
+URL:https://www.abs.gov.au/statistics/economy/finance/managed-funds-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6213@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221736
+DTSTART;TZID=Australia/Canberra:20210310T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210310T113000
+SUMMARY:Lending Indicators: January 2021
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 6215@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221737
+DTSTART;TZID=Australia/Canberra:20210304T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210304T113000
+SUMMARY:Assets and Liabilities of Australian Securitisers: December 2020
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that issue securities against specifically matched assets, such as mortgages
+URL:https://www.abs.gov.au/statistics/economy/finance/assets-and-liabilities-australian-securitisers
+END:VEVENT
+BEGIN:VEVENT
+UID: 6216@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221737
+DTSTART;TZID=Australia/Canberra:20210301T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210301T113000
+SUMMARY:Business Indicators, Australia: December 2020
+DESCRIPTION:Quarterly estimates of profits, income from the sale of goods and services, wages and salaries, and the book value of inventories.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/business-indicators-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6217@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221738
+DTSTART;TZID=Australia/Canberra:20210224T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210224T113000
+SUMMARY:Construction Work Done, Australia, Preliminary: December 2020
+DESCRIPTION:Provides preliminary estimates of value of total construction work done, building work done and engineering construction work done
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/construction-work-done-australia-preliminary
+END:VEVENT
+BEGIN:VEVENT
+UID: 6218@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221738
+DTSTART;TZID=Australia/Canberra:20210211T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210211T113000
+SUMMARY:Lending Indicators: December 2020
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 6219@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221739
+DTSTART;TZID=Australia/Canberra:20201016T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201016T113000
+SUMMARY:Labour Force Status of Families: June 2020
+DESCRIPTION:Explores how families engage with the labour market
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-status-families
+END:VEVENT
+BEGIN:VEVENT
+UID: 6220@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221739
+DTSTART;TZID=Australia/Canberra:20210217T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210217T113000
+SUMMARY:Livestock Products, Australia: December 2020
+DESCRIPTION:Quarterly statistics on livestock slaughtering (numbers and value) meat production and receivals of wool.
+URL:https://www.abs.gov.au/statistics/industry/agriculture/livestock-products-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6224@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221741
+DTSTART;TZID=Australia/Canberra:20210115T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210115T113000
+SUMMARY:Lending Indicators: November 2020
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans
+URL:https://www.abs.gov.au/statistics/economy/finance/lending-indicators
+END:VEVENT
+BEGIN:VEVENT
+UID: 6225@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221742
+DTSTART;TZID=Australia/Canberra:20201214T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201214T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: October 2020
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6226@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221742
+DTSTART;TZID=Australia/Canberra:20210304T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210304T113000
+SUMMARY:Managed Funds, Australia: December 2020
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that pool funds for investment, classified by type of financial instrument
+URL:https://www.abs.gov.au/statistics/economy/finance/managed-funds-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6230@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221744
+DTSTART;TZID=Australia/Canberra:20201117T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201117T113000
+SUMMARY:Livestock Products, Australia: September 2020
+DESCRIPTION:Quarterly statistics on livestock slaughtering (numbers and value), meat production and receivals of wool.
+URL:https://www.abs.gov.au/statistics/industry/agriculture/livestock-products-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6231@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221745
+DTSTART;TZID=Australia/Canberra:20201112T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201112T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: September 2020
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6232@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221745
+DTSTART;TZID=Australia/Canberra:20201111T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201111T113000
+SUMMARY:Microdata: Education and Work: Australia
+DESCRIPTION:Enables analysis of educational attainment and participation in education and employment.
+URL:https://www.abs.gov.au/statistics/people/education/microdata-education-and-work
+END:VEVENT
+BEGIN:VEVENT
+UID: 6237@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221748
+DTSTART;TZID=Australia/Canberra:20201013T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201013T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: August 2020
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 6245@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221752
+DTSTART;TZID=Australia/Canberra:20201211T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201211T113000
+SUMMARY:ABS Corporate Plan: 2020-21 financial year
+DESCRIPTION:The ABS Corporate Plan outlines the role of the ABS as a national statistical agency and the future directions of the organisation.
+URL:https://www.abs.gov.au/corp_report-us/abs-corporate-plan
+END:VEVENT
+BEGIN:VEVENT
+UID: 6249@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221754
+DTSTART;TZID=Australia/Canberra:20201030T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201030T113000
+SUMMARY:Australian National Accounts: Supply Use Tables: 2018-19 financial year
+DESCRIPTION:The Supply-Use tables are compiled to balance the three measures of Gross Domestic Product, and to provide benchmarks for the quarterly estimates.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-supply-use-tables
+END:VEVENT
+BEGIN:VEVENT
+UID: 6259@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221759
+DTSTART;TZID=Australia/Canberra:20210225T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210225T113000
+SUMMARY:Labour Force, Australia, Detailed: January 2021
+DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed
+END:VEVENT
+BEGIN:VEVENT
+UID: 6260@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221759
+DTSTART;TZID=Australia/Canberra:20210325T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210325T113000
+SUMMARY:Labour Force, Australia, Detailed: February 2021
+DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed
+END:VEVENT
+BEGIN:VEVENT
+UID: 6267@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221803
+DTSTART;TZID=Australia/Canberra:20201022T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201022T113000
+SUMMARY:Labour Force, Australia, Detailed: September 2020
+DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed
+END:VEVENT
+BEGIN:VEVENT
+UID: 6268@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221803
+DTSTART;TZID=Australia/Canberra:20201126T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201126T113000
+SUMMARY:Labour Force, Australia, Detailed: October 2020
+DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed
+END:VEVENT
+BEGIN:VEVENT
+UID: 6273@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221806
+DTSTART;TZID=Australia/Canberra:20201223T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201223T113000
+SUMMARY:Labour Force, Australia, Detailed: November 2020
+DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed
+END:VEVENT
+BEGIN:VEVENT
+UID: 6274@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221806
+DTSTART;TZID=Australia/Canberra:20210128T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210128T113000
+SUMMARY:Labour Force, Australia, Detailed: December 2020
+DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed
+END:VEVENT
+BEGIN:VEVENT
+UID: 6284@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221811
+DTSTART;TZID=Australia/Canberra:20201021T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201021T113000
+SUMMARY:Characteristics of Australian Exporters: 2018-19
+DESCRIPTION:Statistics and commentary pertaining to the characteristics of Australia's merchandise trade exporters
+URL:https://www.abs.gov.au/statistics/economy/international-trade/characteristics-australian-exporters
+END:VEVENT
+BEGIN:VEVENT
+UID: 6296@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T221818
+DTSTART;TZID=Australia/Canberra:20201030T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201030T113000
+SUMMARY:Australian System of National Accounts: 2019-20 financial year
+DESCRIPTION:Annual estimates of key economic measures, including GDP, consumption, investment, income, capital stock, productivity and balance sheets
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-system-national-accounts
+END:VEVENT
+BEGIN:VEVENT
+UID: 7022@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222433
+DTSTART;TZID=Australia/Canberra:20211028T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211028T113000
+SUMMARY:International Trade Price Indexes, Australia: September 2021
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7024@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222434
+DTSTART;TZID=Australia/Canberra:20211203T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211203T113000
+SUMMARY:Retail Trade, Australia: October 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7026@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222435
+DTSTART;TZID=Australia/Canberra:20210930T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210930T113000
+SUMMARY:Job Vacancies, Australia: August 2021
+DESCRIPTION:Results of the quarterly Job Vacancies Survey containing estimates of job vacancies classified by industry, sector and state/territory.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacancies-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7032@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222438
+DTSTART;TZID=Australia/Canberra:20211104T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211104T113000
+SUMMARY:Retail Trade, Australia: September 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7034@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222439
+DTSTART;TZID=Australia/Canberra:20201016T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201016T113000
+SUMMARY:Microdata: Labour Force Status and Other Characteristics of Families: June 2020
+DESCRIPTION:.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/microdata-labour-force-status-and-other-characteristics-families-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7040@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222442
+DTSTART;TZID=Australia/Canberra:20211005T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211005T113000
+SUMMARY:Retail Trade, Australia: August 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7041@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222443
+DTSTART;TZID=Australia/Canberra:20210730T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210730T113000
+SUMMARY:Producer Price Indexes, Australia: July 2021
+DESCRIPTION:Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7042@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222443
+DTSTART;TZID=Australia/Canberra:20210903T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210903T113000
+SUMMARY:Retail Trade, Australia: July 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7046@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222445
+DTSTART;TZID=Australia/Canberra:20210830T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210830T113000
+SUMMARY:Mineral and Petroleum Exploration, Australia: June 2021
+DESCRIPTION:Quarterly statistics on Mineral and Petroleum exploration expenditure by private organisations in Australia.
+URL:https://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7047@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222446
+DTSTART;TZID=Australia/Canberra:20210804T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210804T113000
+SUMMARY:Retail Trade, Australia: June 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7049@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222447
+DTSTART;TZID=Australia/Canberra:20210701T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210701T113000
+SUMMARY:Job Vacancies, Australia: May 2021
+DESCRIPTION:Results of the quarterly Job Vacancies Survey containing estimates of job vacancies classified by industry, sector and state/territory.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacancies-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7050@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222447
+DTSTART;TZID=Australia/Canberra:20210705T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210705T113000
+SUMMARY:Retail Trade, Australia: May 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7056@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222450
+DTSTART;TZID=Australia/Canberra:20210603T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210603T113000
+SUMMARY:Retail Trade, Australia: April 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7057@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222451
+DTSTART;TZID=Australia/Canberra:20210430T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210430T113000
+SUMMARY:Producer Price Indexes, Australia: March Quarter 2021
+DESCRIPTION:Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7059@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222452
+DTSTART;TZID=Australia/Canberra:20210311T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210311T113000
+SUMMARY:Corrective Services, Australia: December Quarter 2020
+DESCRIPTION:National and state information about adult prisoners and community based corrections, including legal status, custody type, Indigenous status, sex.
+URL:https://www.abs.gov.au/statistics/people/crime-and-justice/corrective-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7060@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222452
+DTSTART;TZID=Australia/Canberra:20210318T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210318T113000
+SUMMARY:Modellers' Database: December Quarter 2020
+DESCRIPTION:Selected series for macroeconomic analysis derived from national accounts and labour force data
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/modellers-database
+END:VEVENT
+BEGIN:VEVENT
+UID: 7061@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222453
+DTSTART;TZID=Australia/Canberra:20210302T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210302T113000
+SUMMARY:Government Finance Statistics, Australia: December 2020
+DESCRIPTION:Statistics about finances of the general government and public non-financial corporations sectors for the various levels of government in Australia
+URL:https://www.abs.gov.au/statistics/economy/government/government-finance-statistics-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7062@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222453
+DTSTART;TZID=Australia/Canberra:20210325T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210325T113000
+SUMMARY:Australian National Accounts: Finance and Wealth: December 2020
+DESCRIPTION:Contains quarterly data on national, sectoral and subsectoral financial accounts, balance sheets and capital accounts.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-finance-and-wealth
+END:VEVENT
+BEGIN:VEVENT
+UID: 7063@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222454
+DTSTART;TZID=Australia/Canberra:20210510T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210510T113000
+SUMMARY:Retail Trade, Australia: March 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7067@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222456
+DTSTART;TZID=Australia/Canberra:20210401T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210401T113000
+SUMMARY:Job Vacancies, Australia: February 2021
+DESCRIPTION:Results of the quarterly Job Vacancies Survey containing estimates of job vacancies classified by industry, sector and state/territory.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacancies-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7069@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222457
+DTSTART;TZID=Australia/Canberra:20210225T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210225T113000
+SUMMARY:Private New Capital Expenditure and Expected Expenditure, Australia: December 2020
+DESCRIPTION:Quarterly statistics about actual and expected private new capex investment spend on buildings and equipment by industry.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7070@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222457
+DTSTART;TZID=Australia/Canberra:20210401T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210401T113000
+SUMMARY:Retail Trade, Australia: February 2021
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.
+URL:https://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7071@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222458
+DTSTART;TZID=Australia/Canberra:20210225T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210225T113000
+SUMMARY:Average Weekly Earnings, Australia: November 2020
+DESCRIPTION:Results of the Survey of Average Weekly Earnings containing estimates of earnings classified by industry, sector and state/territory.
+URL:https://www.abs.gov.au/statistics/labour/earnings-and-work-hours/average-weekly-earnings-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7073@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222459
+DTSTART;TZID=Australia/Canberra:20210211T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210211T113000
+SUMMARY:Recorded Crime - Offenders: 2019-20 financial year
+DESCRIPTION:Statistics about offenders proceeded against by police including age, sex, Indigenous status and most serious offence.
+URL:https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-offenders
+END:VEVENT
+BEGIN:VEVENT
+UID: 7076@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222501
+DTSTART;TZID=Australia/Canberra:20210129T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210129T113000
+SUMMARY:Producer Price Indexes, Australia: December 2020
+DESCRIPTION:Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7078@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222502
+DTSTART;TZID=Australia/Canberra:20201126T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201126T113000
+SUMMARY:Corrective Services, Australia: September Quarter 2020
+DESCRIPTION:National and state information about adult prisoners and community based corrections, including legal status, custody type, Indigenous status, sex.
+URL:https://www.abs.gov.au/statistics/people/crime-and-justice/corrective-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7081@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222503
+DTSTART;TZID=Australia/Canberra:20201201T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201201T113000
+SUMMARY:Government Finance Statistics, Australia: September 2020
+DESCRIPTION:Statistics about finances of the general government and public non-financial corporations sectors for the various levels of government in Australia
+URL:https://www.abs.gov.au/statistics/economy/government/government-finance-statistics-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7083@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222504
+DTSTART;TZID=Australia/Canberra:20210107T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210107T113000
+SUMMARY:International Trade in Goods and Services, Australia: November 2020
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7084@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222505
+DTSTART;TZID=Australia/Canberra:20201112T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201112T113000
+SUMMARY:Employment and Earnings, Public Sector, Australia: 2019-20 financial year
+DESCRIPTION:Contains estimates of public sector employees and cash wages and salaries by level of government by state; and by industry.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/employment-and-earnings-public-sector-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7085@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222505
+DTSTART;TZID=Australia/Canberra:20201120T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201120T113000
+SUMMARY:Australian National Accounts: State Accounts: 2019-20 financial year
+DESCRIPTION:Key National Accounts aggregates by state and territory.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-state-accounts
+END:VEVENT
+BEGIN:VEVENT
+UID: 7092@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222509
+DTSTART;TZID=Australia/Canberra:20201217T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201217T113000
+SUMMARY:Modellers' Database: September Quarter 2020
+DESCRIPTION:Selected series for macroeconomic analysis derived from national accounts and labour force data
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/modellers-database
+END:VEVENT
+BEGIN:VEVENT
+UID: 7097@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222512
+DTSTART;TZID=Australia/Canberra:20210520T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210520T113000
+SUMMARY:Labour Force, Australia: April 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7100@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222513
+DTSTART;TZID=Australia/Canberra:20210415T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210415T113000
+SUMMARY:Labour Force, Australia: March 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7102@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222514
+DTSTART;TZID=Australia/Canberra:20210318T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210318T113000
+SUMMARY:Labour Force, Australia: February 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7103@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222515
+DTSTART;TZID=Australia/Canberra:20210715T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210715T113000
+SUMMARY:Labour Force, Australia: June 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7104@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222515
+DTSTART;TZID=Australia/Canberra:20210218T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210218T113000
+SUMMARY:Labour Force, Australia: January 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7105@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222516
+DTSTART;TZID=Australia/Canberra:20210819T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210819T113000
+SUMMARY:Labour Force, Australia: July 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7106@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222517
+DTSTART;TZID=Australia/Canberra:20210916T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210916T113000
+SUMMARY:Labour Force, Australia: August 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7107@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222517
+DTSTART;TZID=Australia/Canberra:20210617T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210617T113000
+SUMMARY:Labour Force, Australia: May 2021
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7109@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222518
+DTSTART;TZID=Australia/Canberra:20210121T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210121T113000
+SUMMARY:Labour Force, Australia: December 2020
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7285@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222651
+DTSTART;TZID=Australia/Canberra:20210901T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210901T113000
+SUMMARY:Australian National Accounts: National Income, Expenditure and Product: June 2021
+DESCRIPTION:Quarterly estimates of key economic flows in Australia, including gross domestic product (GDP), consumption, investment, income and saving.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product
+END:VEVENT
+BEGIN:VEVENT
+UID: 7286@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222651
+DTSTART;TZID=Australia/Canberra:20210902T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210902T113000
+SUMMARY:Managed Funds, Australia: June 2021
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that pool funds for investment, classified by type of financial instrument
+URL:https://www.abs.gov.au/statistics/economy/finance/managed-funds-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7287@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222652
+DTSTART;TZID=Australia/Canberra:20210902T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210902T113000
+SUMMARY:Assets and Liabilities of Australian Securitisers: June 2021
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that issue securities against specifically matched assets, such as mortgages
+URL:https://www.abs.gov.au/statistics/economy/finance/assets-and-liabilities-australian-securitisers
+END:VEVENT
+BEGIN:VEVENT
+UID: 7290@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222654
+DTSTART;TZID=Australia/Canberra:20210914T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210914T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: July 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7293@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222655
+DTSTART;TZID=Australia/Canberra:20210818T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210818T113000
+SUMMARY:Wage Price Index, Australia: June 2021
+DESCRIPTION:The WPI measures changes in the price of labour, unaffected by compositional shifts in the labour force, hours worked or employee characteristics.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7294@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222656
+DTSTART;TZID=Australia/Canberra:20210817T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210817T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: June 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7296@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222657
+DTSTART;TZID=Australia/Canberra:20210713T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210713T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: May 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7297@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222657
+DTSTART;TZID=Australia/Canberra:20210729T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210729T113000
+SUMMARY:International Trade Price Indexes, Australia: June 2021
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7298@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222658
+DTSTART;TZID=Australia/Canberra:20210615T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210615T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: April 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7299@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222658
+DTSTART;TZID=Australia/Canberra:20210513T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210513T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: March 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7302@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222700
+DTSTART;TZID=Australia/Canberra:20210519T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210519T113000
+SUMMARY:Wage Price Index, Australia: March 2021
+DESCRIPTION:The WPI measures changes in the price of labour, unaffected by compositional shifts in the labour force, hours worked or employee characteristics.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7304@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222701
+DTSTART;TZID=Australia/Canberra:20201211T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201211T113000
+SUMMARY:Characteristics of Employment, Australia: August 2020
+DESCRIPTION:Weekly earnings of full-time and part-time employees, working arrangements, fixed-term/independent contracts, labour hire and trade union membership
+URL:https://www.abs.gov.au/statistics/labour/earnings-and-work-hours/characteristics-employment-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7306@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222702
+DTSTART;TZID=Australia/Canberra:20210429T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210429T113000
+SUMMARY:International Trade Price Indexes, Australia: March 2021
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7309@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222703
+DTSTART;TZID=Australia/Canberra:20210414T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210414T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: February 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7310@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222704
+DTSTART;TZID=Australia/Canberra:20210218T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210218T113000
+SUMMARY:Counts of Australian Businesses, including Entries and Exits: 2019-20 financial year
+DESCRIPTION:Contains counts of actively trading businesses, rates of entry to and exit from the market sector of the Australian economy, and rates of business survival.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits
+END:VEVENT
+BEGIN:VEVENT
+UID: 7313@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222705
+DTSTART;TZID=Australia/Canberra:20210225T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210225T113000
+SUMMARY:Criminal Courts, Australia: 2019-20 financial year
+DESCRIPTION:Information about defendants in Australian criminal courts: age, sex, Indigenous status, offences (including family violence), outcome and sentence.
+URL:https://www.abs.gov.au/statistics/people/crime-and-justice/criminal-courts-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7314@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222706
+DTSTART;TZID=Australia/Canberra:20210601T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210601T113000
+SUMMARY:Mineral and Petroleum Exploration, Australia: March 2021
+DESCRIPTION:Quarterly statistics on Mineral and Petroleum exploration expenditure by private organisations in Australia.
+URL:https://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7315@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222707
+DTSTART;TZID=Australia/Canberra:20210316T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210316T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: January 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7316@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222707
+DTSTART;TZID=Australia/Canberra:20210224T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210224T113000
+SUMMARY:Wage Price Index, Australia: December 2020
+DESCRIPTION:The WPI measures changes in the price of labour, unaffected by compositional shifts in the labour force, hours worked or employee characteristics.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7317@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222708
+DTSTART;TZID=Australia/Canberra:20210217T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210217T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: December 2020
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7319@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222709
+DTSTART;TZID=Australia/Canberra:20201216T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201216T113000
+SUMMARY:Microdata: Patient Experiences: Australia
+DESCRIPTION:Data on access and barriers to, and experiences of, health care services including GPs, specialists, dental professionals, hospitals and EDs.
+URL:https://www.abs.gov.au/statistics/health/health-services/microdata-patient-experiences-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7321@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222710
+DTSTART;TZID=Australia/Canberra:20201130T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201130T113000
+SUMMARY:Estimates of Industry Level KLEMS Multifactor Productivity: 2018-19 financial year
+DESCRIPTION:Presents experimental estimates of industry level KLEMS multifactor productivity (MFP) for the 16 market industries
+URL:https://www.abs.gov.au/statistics/industry/industry-overview/experimental-estimates-industry-level-klems-multifactor-productivity
+END:VEVENT
+BEGIN:VEVENT
+UID: 7322@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222710
+DTSTART;TZID=Australia/Canberra:20210128T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210128T113000
+SUMMARY:International Trade Price Indexes, Australia: December 2020
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7323@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222711
+DTSTART;TZID=Australia/Canberra:20210218T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210218T113000
+SUMMARY:Crime Victimisation, Australia: 2019-20 financial year
+DESCRIPTION:Crime victimisation statistics for assault, robbery, break-in/burglary, theft/stealing, property damage, police reporting, alcohol, drugs, and more.
+URL:https://www.abs.gov.au/statistics/people/crime-and-justice/crime-victimisation-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7324@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222711
+DTSTART;TZID=Australia/Canberra:20210301T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210301T113000
+SUMMARY:Mineral and Petroleum Exploration, Australia: December 2020
+DESCRIPTION:Quarterly statistics on Mineral and Petroleum exploration expenditure by private organisations in Australia.
+URL:https://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7325@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222712
+DTSTART;TZID=Australia/Canberra:20201130T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201130T113000
+SUMMARY:Estimates of Industry Multifactor Productivity: 2019-20 financial year
+DESCRIPTION:Updates estimates of multifactor productivity (MFP) for industries and aggregates. For further details, refer to the Explanatory notes.
+URL:https://www.abs.gov.au/statistics/industry/industry-overview/estimates-industry-multifactor-productivity
+END:VEVENT
+BEGIN:VEVENT
+UID: 7327@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222713
+DTSTART;TZID=Australia/Canberra:20201116T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201116T113000
+SUMMARY:Patient Experiences in Australia: Summary of Findings: November 2020
+DESCRIPTION:Contains data on access and barriers to, and experiences of, healthcare services including GPs, specialists, dental professionals, hospitals and EDs.
+URL:https://www.abs.gov.au/statistics/health/health-services/patient-experiences-australia-summary-findings
+END:VEVENT
+BEGIN:VEVENT
+UID: 7328@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222713
+DTSTART;TZID=Australia/Canberra:20201125T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201125T113000
+SUMMARY:International Trade: Supplementary Information, Financial Year: 2019-20 financial year
+DESCRIPTION:Detailed financial year statistics on international trade in goods and services, by country and state
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-supplementary-information-financial-year
+END:VEVENT
+BEGIN:VEVENT
+UID: 7329@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222714
+DTSTART;TZID=Australia/Canberra:20201104T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201104T113000
+SUMMARY:Life tables: 2017-19
+DESCRIPTION:Statistics about life tables for Australia, states and territories and life expectancy at birth estimates for sub-state regions
+URL:https://www.abs.gov.au/statistics/people/population/life-tables
+END:VEVENT
+BEGIN:VEVENT
+UID: 7332@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222715
+DTSTART;TZID=Australia/Canberra:20201209T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201209T113000
+SUMMARY:Births, Australia: 2019
+DESCRIPTION:Statistics about births and fertility rates for Australia, states and territories, and sub-state regions
+URL:https://www.abs.gov.au/statistics/people/population/births-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7333@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222716
+DTSTART;TZID=Australia/Canberra:20201019T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201019T113000
+SUMMARY:Australian Statistics Advisory Council - Annual Report: 2019-20
+DESCRIPTION:Outlines the functions and activities of the Australian Statistics Advisory Council during 2019-20.
+URL:https://www.abs.gov.au/corp_report-us/australian-statistics-advisory-council-annual-report
+END:VEVENT
+BEGIN:VEVENT
+UID: 7401@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222753
+DTSTART;TZID=Australia/Canberra:20211216T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211216T113000
+SUMMARY:National, state and territory population: June 2021
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories
+URL:https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population
+END:VEVENT
+BEGIN:VEVENT
+UID: 7405@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222755
+DTSTART;TZID=Australia/Canberra:20211201T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211201T113000
+SUMMARY:Balance of Payments and International Investment Position, Australia: September 2021
+DESCRIPTION:Balance of payments statistics on current, capital and financial transactions and the international investment position statement
+URL:https://www.abs.gov.au/statistics/economy/international-trade/balance-payments-and-international-investment-position-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7409@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222757
+DTSTART;TZID=Australia/Canberra:20211214T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211214T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: October 2021
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7415@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222801
+DTSTART;TZID=Australia/Canberra:20210826T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210826T113000
+SUMMARY:Private New Capital Expenditure and Expected Expenditure, Australia: June 2021
+DESCRIPTION:Quarterly statistics about actual and expected private new capex investment spend on buildings and equipment by industry.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7417@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222802
+DTSTART;TZID=Australia/Canberra:20210728T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210728T113000
+SUMMARY:Consumer Price Index, Australia: June 2021
+DESCRIPTION:The Consumer Price Index (CPI) measures price inflation of goods and services purchased by Australian households in each capital city.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7421@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222804
+DTSTART;TZID=Australia/Canberra:20210527T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210527T113000
+SUMMARY:Private New Capital Expenditure and Expected Expenditure, Australia: March 2021
+DESCRIPTION:Quarterly statistics about actual and expected private new capex investment spend on buildings and equipment by industry.
+URL:https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7424@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222806
+DTSTART;TZID=Australia/Canberra:20210428T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210428T113000
+SUMMARY:Consumer Price Index, Australia: March 2021
+DESCRIPTION:The Consumer Price Index (CPI) measures price inflation of goods and services purchased by Australian households in each capital city.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7425@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222806
+DTSTART;TZID=Australia/Canberra:20210330T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210330T113000
+SUMMARY:Regional population: 2019-20 financial year
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia's capital cities and regions
+URL:https://www.abs.gov.au/statistics/people/population/regional-population
+END:VEVENT
+BEGIN:VEVENT
+UID: 7428@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222808
+DTSTART;TZID=Australia/Canberra:20210127T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210127T113000
+SUMMARY:Consumer Price Index, Australia: December 2020
+DESCRIPTION:The Consumer Price Index (CPI) measures price inflation of goods and services purchased by Australian households in each capital city.
+URL:https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7429@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222808
+DTSTART;TZID=Australia/Canberra:20201216T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201216T113000
+SUMMARY:Energy Account, Australia: 2018 - 2019
+DESCRIPTION:This publication presents estimates of energy assets, and physical/monetary supply and use. It also presents key indicators to support data users.
+URL:https://www.abs.gov.au/statistics/industry/energy/energy-account-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7430@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222809
+DTSTART;TZID=Australia/Canberra:20201119T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201119T113000
+SUMMARY:Water Account, Australia: 2018-19 financial year
+DESCRIPTION:Presents estimates of physical and monetary supply and use of water across the Australian economy.
+URL:https://www.abs.gov.au/statistics/environment/environmental-management/water-account-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7475@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222833
+DTSTART;TZID=Australia/Canberra:20211202T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211202T113000
+SUMMARY:International Trade in Goods and Services, Australia: October 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7478@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222834
+DTSTART;TZID=Australia/Canberra:20210923T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210923T113000
+SUMMARY:Australian National Accounts: Finance and Wealth: June 2021
+DESCRIPTION:Contains quarterly data on national, sectoral and subsectoral financial accounts, balance sheets and capital accounts.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-finance-and-wealth
+END:VEVENT
+BEGIN:VEVENT
+UID: 7483@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222837
+DTSTART;TZID=Australia/Canberra:20210902T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210902T113000
+SUMMARY:International Trade in Goods and Services, Australia: July 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7486@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222839
+DTSTART;TZID=Australia/Canberra:20210805T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210805T113000
+SUMMARY:International Trade in Goods and Services, Australia: June 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7487@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222839
+DTSTART;TZID=Australia/Canberra:20210624T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210624T113000
+SUMMARY:Australian National Accounts: Finance and Wealth: March 2021
+DESCRIPTION:Contains quarterly data on national, sectoral and subsectoral financial accounts, balance sheets and capital accounts.
+URL:https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-finance-and-wealth
+END:VEVENT
+BEGIN:VEVENT
+UID: 7489@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222840
+DTSTART;TZID=Australia/Canberra:20210701T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210701T113000
+SUMMARY:International Trade in Goods and Services, Australia: May 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7491@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222841
+DTSTART;TZID=Australia/Canberra:20210603T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210603T113000
+SUMMARY:International Trade in Goods and Services, Australia: April 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7492@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222842
+DTSTART;TZID=Australia/Canberra:20210304T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210304T113000
+SUMMARY:International Trade in Goods and Services, Australia: January 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7493@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222842
+DTSTART;TZID=Australia/Canberra:20210401T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210401T113000
+SUMMARY:International Trade in Goods and Services, Australia: February 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7495@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222843
+DTSTART;TZID=Australia/Canberra:20201203T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201203T113000
+SUMMARY:Prisoners in Australia: 2020
+DESCRIPTION:Contains annual national information on prisoners in custody at 30 June, including demographic information, imprisonment rates, most serious offence.
+URL:https://www.abs.gov.au/statistics/people/crime-and-justice/prisoners-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7497@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222844
+DTSTART;TZID=Australia/Canberra:20201125T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201125T113000
+SUMMARY:Marriages and Divorces, Australia: 2019
+DESCRIPTION:National and state statistics on marriages and divorces, including same sex couples, presented by age, duration and rates
+URL:https://www.abs.gov.au/statistics/people/people-and-communities/marriages-and-divorces-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7536@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222900
+DTSTART;TZID=Australia/Canberra:20211130T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211130T113000
+SUMMARY:Building Approvals, Australia: October 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7538@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222900
+DTSTART;TZID=Australia/Canberra:20211103T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211103T113000
+SUMMARY:Building Approvals, Australia: September 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7539@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222901
+DTSTART;TZID=Australia/Canberra:20210930T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210930T113000
+SUMMARY:Building Approvals, Australia: August 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7540@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222901
+DTSTART;TZID=Australia/Canberra:20211104T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211104T113000
+SUMMARY:International Trade in Goods and Services, Australia: September 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7541@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222902
+DTSTART;TZID=Australia/Canberra:20210831T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210831T113000
+SUMMARY:Building Approvals, Australia: July 2021
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7543@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222902
+DTSTART;TZID=Australia/Canberra:20211005T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20211005T113000
+SUMMARY:International Trade in Goods and Services, Australia: August 2021
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7547@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222904
+DTSTART;TZID=Australia/Canberra:20210526T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210526T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: April 2021
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 7549@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222905
+DTSTART;TZID=Australia/Canberra:20210427T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210427T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: March 2021
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 7551@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222906
+DTSTART;TZID=Australia/Canberra:20210324T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210324T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: February 2021
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 7552@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222906
+DTSTART;TZID=Australia/Canberra:20210224T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210224T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: January 2021
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 7553@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222906
+DTSTART;TZID=Australia/Canberra:20210128T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210128T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: December 2020
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 7554@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222907
+DTSTART;TZID=Australia/Canberra:20201111T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201111T113000
+SUMMARY:Education and Work, Australia: May 2020
+DESCRIPTION:Survey data over time on current or recent study, educational attainments, and employment.
+URL:https://www.abs.gov.au/statistics/people/education/education-and-work-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7555@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222907
+DTSTART;TZID=Australia/Canberra:20201222T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201222T113000
+SUMMARY:International Merchandise Trade: Confidential Commodities List: November 2020
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series
+URL:https://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list
+END:VEVENT
+BEGIN:VEVENT
+UID: 7605@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222927
+DTSTART;TZID=Australia/Canberra:20210827T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210827T113000
+SUMMARY:Regional Population by Age and Sex, Australia: 2020
+DESCRIPTION:Statistics about the population by age and sex for Australia's capital cities and regions
+URL:https://www.abs.gov.au/statistics/people/population/regional-population-age-and-sex
+END:VEVENT
+BEGIN:VEVENT
+UID: 7660@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222946
+DTSTART;TZID=Australia/Canberra:20201209T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20201209T113000
+SUMMARY:Labour Account Australia: September 2020
+DESCRIPTION:The Australian Labour Account provides quarterly time series data, consisting of four quadrants: Jobs, Persons, Labour Volume and Labour Payments.
+URL:https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-account-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7678@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222952
+DTSTART;TZID=Australia/Canberra:20210113T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210113T113000
+SUMMARY:Engineering Construction Activity, Australia: September 2020
+DESCRIPTION:Provides estimates of value of engineering construction work done, commenced and yet to be done
+URL:https://www.abs.gov.au/statistics/industry/building-and-construction/engineering-construction-activity-australia
+END:VEVENT
+BEGIN:VEVENT
+UID: 7686@https://www.abs.gov.au/
+DTSTAMP;TZID=Australia/Canberra:20200930T222954
+DTSTART;TZID=Australia/Canberra:20210115T113000
+SEQUENCE:0
+DTEND;TZID=Australia/Canberra:20210115T113000
+SUMMARY:Overseas Arrivals and Departures, Australia: November 2020
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1 year)
+URL:https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia
+END:VEVENT
+END:VCALENDAR
